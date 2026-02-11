@@ -50,4 +50,4 @@ Atualmente, o repositório conta com os seguintes módulos:
 
 ---
 
-⭐ Desenvolvido por [Paulo Souza](https://github.com)
+⭐ Desenvolvido por [Paulo Souza](https://github.com/Paulo-Souza-SN/Paulo-Souza-SN)
